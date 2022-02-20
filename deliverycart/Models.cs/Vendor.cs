@@ -1,3 +1,4 @@
+#nullable disable
 namespace deliverycart.Models
 {
     public class Vendor : User

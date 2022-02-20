@@ -23,3 +23,5 @@ dotnet run
 //work on async method in dbContext and pages/Order/create
 dotnet ef migrations add initial_migration
 dotnet ef database update
+dotnet run
+cd ..

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Ui1bWNU/p3dbv8IyrfXWSulhseqa7KAGbpbjHclFVWpEPrIuKNzv5B1QeX2XOYiATiJ/nPbHtcs5xj81s0G54A==",
+  "dgSpecHash": "hXBZXTbFkvpgi1/lXN//0+a+bkCzXm0P9MwphVUe/B0r7m/Lqg7LopiEV6dkvJ70ckUqd3Jt4iOcud1LxOI0Bw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Sang Ci\\Desktop\\Assignment3XTests\\deliverycart\\deliverycart.csproj",
   "expectedPackageFiles": [
@@ -39,6 +39,7 @@
     "C:\\Users\\Sang Ci\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.2\\microsoft.entityframeworkcore.abstractions.6.0.2.nupkg.sha512",
     "C:\\Users\\Sang Ci\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.2\\microsoft.entityframeworkcore.analyzers.6.0.2.nupkg.sha512",
     "C:\\Users\\Sang Ci\\.nuget\\packages\\microsoft.entityframeworkcore.design\\6.0.2\\microsoft.entityframeworkcore.design.6.0.2.nupkg.sha512",
+    "C:\\Users\\Sang Ci\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\6.0.2\\microsoft.entityframeworkcore.inmemory.6.0.2.nupkg.sha512",
     "C:\\Users\\Sang Ci\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\6.0.2\\microsoft.entityframeworkcore.relational.6.0.2.nupkg.sha512",
     "C:\\Users\\Sang Ci\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite\\6.0.2\\microsoft.entityframeworkcore.sqlite.6.0.2.nupkg.sha512",
     "C:\\Users\\Sang Ci\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite.core\\6.0.2\\microsoft.entityframeworkcore.sqlite.core.6.0.2.nupkg.sha512",

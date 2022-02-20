@@ -6,21 +6,21 @@ using Xunit;
 using deliverycart.Data;
 using deliverycart.Models;
 
-namespace webapp.Tests;
+namespace deliverycart.Tests;
 
 public class DataAccessLayerTest
 {
         [Fact]
         public async Task AddOrderAsync_OrderIsAdded()
         {
-            using (var db = new RazorClubContext(Utilities.TestDbContextOptions()))
+            using (var db = new Assignment3XTestsContext(Utilities.TestDbContextOptions()))
             {
                 // Arrange
                 var recId = 10;
 
-                var expectedOrdert = new Order() 
+                var expectedOrder = new Order() 
                 { 
-                    ID = recId, 
+                    OrderID = recId, 
                    
                 };
 

@@ -11,6 +11,7 @@ namespace deliverycart.Tests
 {
     public static class Utilities
     {
+       
         public static DbContextOptions<Assignment3XTestsContext> TestDbContextOptions()
         {
             // Create a new service provider to create a new in-memory database.
@@ -21,11 +22,12 @@ namespace deliverycart.Tests
             // Create a new options instance using an in-memory database and 
             // IServiceProvider that the context should resolve all of its 
             // services from.
-            var builder = new DbContextOptionsBuilder<RazorClubContext>()
+            var builder = new DbContextOptionsBuilder<Assignment3XTestsContext>()
                 .UseInMemoryDatabase("InMemoryDb")
                 .UseInternalServiceProvider(serviceProvider);
 
             return builder.Options;
         }
+        
     }
 }
