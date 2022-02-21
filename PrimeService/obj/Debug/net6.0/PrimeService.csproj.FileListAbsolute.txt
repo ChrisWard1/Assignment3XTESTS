@@ -10,3 +10,15 @@ C:\Users\Sang Ci\Desktop\Assignment3XTests\PrimeService\obj\Debug\net6.0\PrimeSe
 C:\Users\Sang Ci\Desktop\Assignment3XTests\PrimeService\obj\Debug\net6.0\PrimeService.dll
 C:\Users\Sang Ci\Desktop\Assignment3XTests\PrimeService\obj\Debug\net6.0\ref\PrimeService.dll
 C:\Users\Sang Ci\Desktop\Assignment3XTests\PrimeService\obj\Debug\net6.0\PrimeService.pdb
+C:\Users\cward\Documents\Fall 2022\Soft Sys Dev\deliverycart\Assignment3XTests\PrimeService\bin\Debug\net6.0\PrimeService.deps.json
+C:\Users\cward\Documents\Fall 2022\Soft Sys Dev\deliverycart\Assignment3XTests\PrimeService\bin\Debug\net6.0\PrimeService.dll
+C:\Users\cward\Documents\Fall 2022\Soft Sys Dev\deliverycart\Assignment3XTests\PrimeService\bin\Debug\net6.0\ref\PrimeService.dll
+C:\Users\cward\Documents\Fall 2022\Soft Sys Dev\deliverycart\Assignment3XTests\PrimeService\bin\Debug\net6.0\PrimeService.pdb
+C:\Users\cward\Documents\Fall 2022\Soft Sys Dev\deliverycart\Assignment3XTests\PrimeService\obj\Debug\net6.0\PrimeService.csproj.AssemblyReference.cache
+C:\Users\cward\Documents\Fall 2022\Soft Sys Dev\deliverycart\Assignment3XTests\PrimeService\obj\Debug\net6.0\PrimeService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cward\Documents\Fall 2022\Soft Sys Dev\deliverycart\Assignment3XTests\PrimeService\obj\Debug\net6.0\PrimeService.AssemblyInfoInputs.cache
+C:\Users\cward\Documents\Fall 2022\Soft Sys Dev\deliverycart\Assignment3XTests\PrimeService\obj\Debug\net6.0\PrimeService.AssemblyInfo.cs
+C:\Users\cward\Documents\Fall 2022\Soft Sys Dev\deliverycart\Assignment3XTests\PrimeService\obj\Debug\net6.0\PrimeService.csproj.CoreCompileInputs.cache
+C:\Users\cward\Documents\Fall 2022\Soft Sys Dev\deliverycart\Assignment3XTests\PrimeService\obj\Debug\net6.0\PrimeService.dll
+C:\Users\cward\Documents\Fall 2022\Soft Sys Dev\deliverycart\Assignment3XTests\PrimeService\obj\Debug\net6.0\ref\PrimeService.dll
+C:\Users\cward\Documents\Fall 2022\Soft Sys Dev\deliverycart\Assignment3XTests\PrimeService\obj\Debug\net6.0\PrimeService.pdb

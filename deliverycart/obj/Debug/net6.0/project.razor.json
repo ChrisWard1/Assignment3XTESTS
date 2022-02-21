@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\Sang Ci\\Desktop\\Assignment3XTests\\deliverycart\\deliverycart.csproj",
+  "FilePath": "c:\\Users\\cward\\Documents\\Fall 2022\\Soft Sys Dev\\deliverycart\\Assignment3XTests\\deliverycart\\deliverycart.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "6.0",
@@ -16298,63 +16298,63 @@
   "RootNamespace": "deliverycart",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\Sang Ci\\Desktop\\Assignment3XTests\\deliverycart\\Pages\\_ViewImports.cshtml",
-      "TargetPath": "Pages\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Sang Ci\\Desktop\\Assignment3XTests\\deliverycart\\Pages\\Shared\\_Layout.cshtml",
-      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Sang Ci\\Desktop\\Assignment3XTests\\deliverycart\\Pages\\Orders\\Details.cshtml",
-      "TargetPath": "Pages\\Orders\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Sang Ci\\Desktop\\Assignment3XTests\\deliverycart\\Pages\\_ViewStart.cshtml",
-      "TargetPath": "Pages\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Sang Ci\\Desktop\\Assignment3XTests\\deliverycart\\Pages\\Orders\\Create.cshtml",
-      "TargetPath": "Pages\\Orders\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Sang Ci\\Desktop\\Assignment3XTests\\deliverycart\\Pages\\Index.cshtml",
-      "TargetPath": "Pages\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Sang Ci\\Desktop\\Assignment3XTests\\deliverycart\\Pages\\Orders\\Edit.cshtml",
-      "TargetPath": "Pages\\Orders\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Sang Ci\\Desktop\\Assignment3XTests\\deliverycart\\Pages\\Orders\\Index.cshtml",
-      "TargetPath": "Pages\\Orders\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Sang Ci\\Desktop\\Assignment3XTests\\deliverycart\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "c:\\Users\\cward\\Documents\\Fall 2022\\Soft Sys Dev\\deliverycart\\Assignment3XTests\\deliverycart\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Sang Ci\\Desktop\\Assignment3XTests\\deliverycart\\Pages\\Error.cshtml",
-      "TargetPath": "Pages\\Error.cshtml",
+      "FilePath": "c:\\Users\\cward\\Documents\\Fall 2022\\Soft Sys Dev\\deliverycart\\Assignment3XTests\\deliverycart\\Pages\\Privacy.cshtml",
+      "TargetPath": "Pages\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Sang Ci\\Desktop\\Assignment3XTests\\deliverycart\\Pages\\Orders\\Delete.cshtml",
+      "FilePath": "c:\\Users\\cward\\Documents\\Fall 2022\\Soft Sys Dev\\deliverycart\\Assignment3XTests\\deliverycart\\Pages\\_ViewImports.cshtml",
+      "TargetPath": "Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cward\\Documents\\Fall 2022\\Soft Sys Dev\\deliverycart\\Assignment3XTests\\deliverycart\\Pages\\Orders\\Index.cshtml",
+      "TargetPath": "Pages\\Orders\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cward\\Documents\\Fall 2022\\Soft Sys Dev\\deliverycart\\Assignment3XTests\\deliverycart\\Pages\\Orders\\Delete.cshtml",
       "TargetPath": "Pages\\Orders\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Sang Ci\\Desktop\\Assignment3XTests\\deliverycart\\Pages\\Privacy.cshtml",
-      "TargetPath": "Pages\\Privacy.cshtml",
+      "FilePath": "c:\\Users\\cward\\Documents\\Fall 2022\\Soft Sys Dev\\deliverycart\\Assignment3XTests\\deliverycart\\Pages\\Index.cshtml",
+      "TargetPath": "Pages\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cward\\Documents\\Fall 2022\\Soft Sys Dev\\deliverycart\\Assignment3XTests\\deliverycart\\Pages\\_ViewStart.cshtml",
+      "TargetPath": "Pages\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cward\\Documents\\Fall 2022\\Soft Sys Dev\\deliverycart\\Assignment3XTests\\deliverycart\\Pages\\Error.cshtml",
+      "TargetPath": "Pages\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cward\\Documents\\Fall 2022\\Soft Sys Dev\\deliverycart\\Assignment3XTests\\deliverycart\\Pages\\Orders\\Create.cshtml",
+      "TargetPath": "Pages\\Orders\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cward\\Documents\\Fall 2022\\Soft Sys Dev\\deliverycart\\Assignment3XTests\\deliverycart\\Pages\\Orders\\Details.cshtml",
+      "TargetPath": "Pages\\Orders\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cward\\Documents\\Fall 2022\\Soft Sys Dev\\deliverycart\\Assignment3XTests\\deliverycart\\Pages\\Orders\\Edit.cshtml",
+      "TargetPath": "Pages\\Orders\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cward\\Documents\\Fall 2022\\Soft Sys Dev\\deliverycart\\Assignment3XTests\\deliverycart\\Pages\\Shared\\_Layout.cshtml",
+      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     }
   ],
